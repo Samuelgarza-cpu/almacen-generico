@@ -1,1 +1,1 @@
-# almacen-gerico
+# almacen-generico
